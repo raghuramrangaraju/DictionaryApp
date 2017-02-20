@@ -1,0 +1,2 @@
+# DictionaryApp
+Developed a dictionary for the android mobile app for Tamil language. The dictionary is in prototype model with less number of english words. You can add more words on wordclass in this  project.I have used recycler view for listing the words.  Also I have placed search button at the top where you can search for the respective word and find the meaning of it. You can use your own native language instead of Tamil Language and publish the app. I felt there are not many apps in the app store for many languages to find the meanings.
