@@ -7,6 +7,9 @@ I have used recycler view for listing the words. Also, Placed search button at t
 You can use your own native language instead of Tamil Language and publish this app. 
 
 I felt there are not so many apps in the app store for many native languages.
+### Screen shots
+
+
 
 ********************
 
