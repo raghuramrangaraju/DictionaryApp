@@ -15,9 +15,6 @@ I felt there are not so many apps in the app store for many native languages.
 
 ![alt text](https://github.com/rahuram777/DictionaryApp/blob/master/app/screenshots/DictionaryApp5.png)
 
-********************
-
-```
-For any questions to this app. 
-Email Id: rahuram777@gmail.com 
-LinkedIn : https://www.linkedin.com/in/rahuram777
+For any questions regards to this app. Please email me.
+  - Email Id: rahuram777@gmail.com 
+  - LinkedIn : https://www.linkedin.com/in/rahuram777
