@@ -9,9 +9,15 @@ You can use your own native language instead of Tamil Language and publish this 
 I felt there are not so many apps in the app store for many native languages.
 ### Screen shots
 
+![alt text](https://github.com/rahuram777/DictionaryApp/blob/master/app/screenshots/DictionaryApp1.png)
 
+![alt text](https://github.com/rahuram777/DictionaryApp/blob/master/app/screenshots/DictionaryApp4.png)
+
+![alt text](https://github.com/rahuram777/DictionaryApp/blob/master/app/screenshots/DictionaryApp5.png)
 
 ********************
 
 ```
-For any queries in regards to this app. Email (rahuram777@gmail.com).
+For any questions to this app. 
+Email Id: rahuram777@gmail.com 
+LinkedIn : https://www.linkedin.com/in/rahuram777
